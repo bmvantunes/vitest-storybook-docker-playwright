@@ -8,7 +8,9 @@
     "start": "next start",
     "lint": "eslint",
     "storybook": "storybook dev -p 6006",
-    "build-storybook": "storybook build"
+    "build-storybook": "storybook build",
+    "test": "CI=true vitest --coverage",
+    "test:docker": "docker run --rm -it --ipc=host -v \"$(pwd):/app\" -w /app mcr.microsoft.com/playwright:v1.55.1-noble sh -c 'npm install && npm run test'"
   },
   "dependencies": {
     "next": "15.5.4",

@@ -1,36 +1,765 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Replicate the issue
 
-## Getting Started
+- Have Docker installed
+- npm run test:docker
+- repeat `npm run test:docker` until finding:
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
+There are 232 handle(s) keeping the process running
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# FILEHANDLE
+(unknown stack trace)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+# FILEHANDLE
+(unknown stack trace)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+# FILEHANDLE
+(unknown stack trace)
 
-## Learn More
+# FILEHANDLE
+(unknown stack trace)
 
-To learn more about Next.js, take a look at the following resources:
+# FILEHANDLE
+(unknown stack trace)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+# FILEHANDLE
+(unknown stack trace)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+# FILEHANDLE
+(unknown stack trace)
 
-## Deploy on Vercel
+# FILEHANDLE
+(unknown stack trace)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+# FILEHANDLE
+(unknown stack trace)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# TLSWRAP
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# TLSWRAP
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# TLSWRAP
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+
+# FILEHANDLE
+(unknown stack trace)
+
+# ZLIB
+wasm://wasm/0002f80e:1
+
+# bound-anonymous-fn
+(unknown stack trace)
+
+# bound-anonymous-fn
+(unknown stack trace)
+
+# bound-anonymous-fn
+(unknown stack trace)
+
+# finish
+(unknown stack trace)
+
+# bound-anonymous-fn
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# ZLIB
+wasm://wasm/0002f80e:1
+
+# bound-anonymous-fn
+(unknown stack trace)
+
+# bound-anonymous-fn
+(unknown stack trace)
+
+# bound-anonymous-fn
+(unknown stack trace)
+
+# finish
+(unknown stack trace)
+
+# bound-anonymous-fn
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# ZLIB
+wasm://wasm/0002f80e:1
+
+# bound-anonymous-fn
+(unknown stack trace)
+
+# bound-anonymous-fn
+(unknown stack trace)
+
+# bound-anonymous-fn
+(unknown stack trace)
+
+# finish
+(unknown stack trace)
+
+# bound-anonymous-fn
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# FILEHANDLE
+(unknown stack trace)
+
+# TLSWRAP
+(unknown stack trace)
+
+# TLSWRAP
+(unknown stack trace)
+
+# FSEVENTWRAP
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16437
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16479
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16594
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16757
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16800
+
+# FSEVENTWRAP
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16437
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16479
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16594
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16757
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16800
+
+# FSEVENTWRAP
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16437
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16479
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16594
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16638
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16812
+
+# FSEVENTWRAP
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16437
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16479
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16594
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16638
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16812
+
+# FSEVENTWRAP
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16437
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16479
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16594
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16757
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16800
+
+# FSEVENTWRAP
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16437
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16479
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16594
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16757
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16800
+
+# FSEVENTWRAP
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16437
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16479
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16594
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16757
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16800
+
+# FSEVENTWRAP
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16437
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16479
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16594
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16638
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16812
+
+# FSEVENTWRAP
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16437
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16479
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16594
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16638
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16812
+
+# FSEVENTWRAP
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16437
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16479
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16594
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16638
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16812
+
+# FSEVENTWRAP
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16437
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16479
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16594
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16638
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16812
+
+# FSEVENTWRAP
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16437
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16479
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16594
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16638
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16812
+
+# FSEVENTWRAP
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16437
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16479
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16594
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16638
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16812
+
+# FSEVENTWRAP
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16437
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16479
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16594
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16638
+file:///app/node_modules/vite/dist/node/chunks/dep-CuuNgwUk.js:16812
+close timed out after 10000ms
+Tests closed successfully but something prevents the main process from exiting
+```
